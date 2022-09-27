@@ -1,0 +1,1 @@
+'databaseURL': "https://trialauth-7eea1.firebaseio.com",
